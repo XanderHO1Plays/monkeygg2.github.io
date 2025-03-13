@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MonkeyGG2/monkeygg2.github.io/main/imgs/icon-256-256.png" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/XanderPlays/xanderplayz.github.io/main/imgs/icon-256-256.png" height="200"></p>
 
 <div align="center">
 <a href="https://discord.com/invite/yPYyZ78qCB"><img alt="Discord" src="https://img.shields.io/discord/1051660971900407839?label=discord"></a>
